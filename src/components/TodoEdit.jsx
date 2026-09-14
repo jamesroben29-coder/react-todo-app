@@ -1,6 +1,4 @@
 
-import React from 'react'
-
 const TodoEdit = ({handleClose ,editText ,setEditText,handleSave }) => {
 
   const handleEditInput = (e) =>{

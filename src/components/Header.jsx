@@ -1,8 +1,6 @@
 
 import TodoLogo from "../assets/images/todo-logo1.png";
 
-import React from 'react'
-
 const Header = () => {
   return (
     <div className='header-container'>

@@ -1,8 +1,8 @@
 
 import { Search, ListSortDescending, Clock2,Check } from 'lucide-react';
-import React from 'react'
 
-const TodoSearch = ({  handleSearch, searchText, setSearchText,
+
+const TodoSearch = ({ searchText, setSearchText,
     handleFilterActive, handleFilterAll, handleFilterCompleted, filterActive }) => {
 
     const handleInputSearch = (e) => {

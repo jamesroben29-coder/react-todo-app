@@ -1,6 +1,6 @@
 
 import { Trash, SquarePen } from 'lucide-react';
-import React from 'react'
+
 
 const TodoItem = ({todo, handleDelete , handleEdit, handleToggle}) => {
     

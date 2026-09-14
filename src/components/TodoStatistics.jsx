@@ -1,6 +1,6 @@
 
 import { Layers, Clock, CircleCheck } from 'lucide-react';
-import React from 'react'
+
 
 const TodoStatistics = ({todos, }) => {
 

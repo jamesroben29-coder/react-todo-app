@@ -1,8 +1,8 @@
 
 import { List, Plus } from 'lucide-react';
-import React from 'react'
 
-const TodoInput = ({input, setInput, handleAddToDo, todos, error, setError }) => {
+
+const TodoInput = ({ input, setInput, handleAddToDo }) => {
 
     const handleInput = (e) => {
         setInput(e.target.value);

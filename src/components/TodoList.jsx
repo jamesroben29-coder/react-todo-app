@@ -1,10 +1,8 @@
 
-import React from 'react'
+
 import TodoItem from "../components/TodoItem.jsx";
 
-const TodoList = ({ todos, setTodos,
-      handleDelete, handleToggle,
-      handleEdit, finalTodos }) => {
+const TodoList = ({ handleDelete, handleToggle, handleEdit, finalTodos }) => {
     
 const todoData = finalTodos.map((todo) => {
       return (
