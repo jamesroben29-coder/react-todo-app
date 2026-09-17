@@ -117,6 +117,8 @@ function App(){
             <Header/>
         </header>
 
+         <h3>Hello</h3>
+
         <main>
 
           <div className="add-to-do-section">
