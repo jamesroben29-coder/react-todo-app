@@ -6,6 +6,10 @@ A responsive Todo application built with React for managing daily tasks with a c
 
 [View Live Demo](https://nna-react-todo-app.vercel.app)
 
+## Screenshot
+
+![React Todo App Screenshot](public/todo-add-preview.png)
+
 ## Features
 
 - Add new tasks
